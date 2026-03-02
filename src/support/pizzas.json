@@ -1,0 +1,7 @@
+{
+  "configs": [
+    { "maxCalories": 500, "isVegetarian": true, "toppings": 3 },
+    { "maxCalories": 1000, "isVegetarian": false, "toppings": 5 },
+    { "maxCalories": 800, "isVegetarian": false, "toppings": 2 }
+  ]
+}
